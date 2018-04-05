@@ -1,5 +1,5 @@
 # HM-LC-Sw4-Ba-PCB-Switch-Extension
-Toggle the outputs of the HM-LC-Sw4-Ba-PCB w/ external Switches using an Arduino Nano as interface
+Toggle the outputs of the HM-LC-Sw4-Ba-PCB w/ external Switches using an Arduino as interface
 
 The HM-LC-Sw4-Ba-PCB is a 4 channel actuator for the Homematic system made by eq-3.
 

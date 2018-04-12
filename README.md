@@ -11,4 +11,4 @@ Change in state of S3 (on pin 4) or S7 (on pin 12) toggles output 3 (on pin 8)
 Change in state of S4 (on pin 5) toggles output 4 (on pin 9)
 Each switch / output is optional
 
-Please see "/Schematics/wiring.sch" or "/Schematics/wiring.png" for a wiring diagram.
+Please see "[/Schematics/wiring.sch](/Schematics/wiring.sch)" or "[/Schematics/wiring.png](/Schematics/wiring.png)" for a wiring diagram.
